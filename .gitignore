@@ -1,0 +1,12 @@
+# Compiled binaries and build outputs
+*.exe
+*.o
+*.obj
+bin/
+build/
+
+# IDE / VS Code / Windows system files
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
